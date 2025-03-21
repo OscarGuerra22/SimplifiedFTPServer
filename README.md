@@ -15,4 +15,4 @@ This project was developed as part of an assignment for the **"Redes y Sistemas 
 - Make (for build configuration)
 
 ## Acknowledgments
-This project is a fork of my university repository and was developed as an academic assignment.
+This project is a fork of my university repository and was developed as an academic assignment, basic structure of the code was given to us.
